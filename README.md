@@ -57,3 +57,18 @@ aligned verify-proof-onchain \
 --rpc https://ethereum-holesky-rpc.publicnode.com \
 --chain holesky
 ```
+Use the explorer link in CMD to check if verified and you'll also see below image ( copy the url and paste into browser
+![WhatsApp Image 2024-06-18 at 11 17 43 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/1ca7e264-4b18-4a43-8c47-ac955c9fdd2d)
+![WhatsApp Image 2024-06-18 at 11 12 26 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/627999a4-4b2d-4e88-9aac-7837ced9ff16)
+
+Tweet exactly as screenshot and copy the tweet link 
+![WhatsApp Image 2024-06-18 at 11 22 32 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/03fd20e9-aced-4232-9a60-41d6befb8754)
+
+Now upload in discord
+![WhatsApp Image 2024-06-18 at 11 25 35 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/46f7a3aa-970d-4657-9daf-8aaa3733b054)
+
+DISCORD LINK
+https://linktr.ee/AlignedLayer
+
+
+
