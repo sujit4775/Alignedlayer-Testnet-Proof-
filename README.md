@@ -49,9 +49,9 @@ aligned submit \
 ```
 Wait 2 or 3 min after that
 use this code to get the log you will screenshot for your X post
-```bash
 ![WhatsApp Image 2024-06-18 at 11 05 22 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/4ad380ab-d7bb-4912-a96f-5de21a4a4a54)
 
+```bash
 aligned verify-proof-onchain \
 --aligned-verification-data ~/aligned_verification_data/*.json \
 --rpc https://ethereum-holesky-rpc.publicnode.com \
