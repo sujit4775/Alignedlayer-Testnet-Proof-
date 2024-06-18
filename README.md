@@ -10,11 +10,15 @@ STEP 1
 sudo apt update -y
 sudo apt upgrade -y
 ```
+
+
 Install curl
 
 ```bash
 sudo apt-get install curl -y
 ```
+
+
 Download ALignedProof
 
 ![WhatsApp Image 2024-06-18 at 10 53 13 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/efffe5eb-7f5e-4009-b96f-86dda7f16904)
@@ -26,6 +30,8 @@ curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batche
 ```bash
 source /root/.bashrc
 ```
+
+
 Download an example SP1 proof file with it's ELF file
 
 ![WhatsApp Image 2024-06-18 at 10 58 25 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/d4431380-88ff-4d88-840e-bcaeb2751a59)
@@ -34,6 +40,7 @@ Download an example SP1 proof file with it's ELF file
 
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/get_proof_test_files.sh | bash
 ```
+
 
 Sending proof
 ![WhatsApp Image 2024-06-18 at 11 02 37 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/3569d018-c2c0-48fd-80e2-f1898a92dfb7)
@@ -57,15 +64,20 @@ aligned verify-proof-onchain \
 --rpc https://ethereum-holesky-rpc.publicnode.com \
 --chain holesky
 ```
+
+
 Use the explorer link in CMD to check if verified and you'll also see below image ( copy the url and paste into browser
 ![WhatsApp Image 2024-06-18 at 11 17 43 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/1ca7e264-4b18-4a43-8c47-ac955c9fdd2d)
 ![WhatsApp Image 2024-06-18 at 11 12 26 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/627999a4-4b2d-4e88-9aac-7837ced9ff16)
 
+
 Tweet exactly as screenshot and copy the tweet link 
 ![WhatsApp Image 2024-06-18 at 11 22 32 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/03fd20e9-aced-4232-9a60-41d6befb8754)
 
+
 Now upload in discord
 ![WhatsApp Image 2024-06-18 at 11 25 35 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/46f7a3aa-970d-4657-9daf-8aaa3733b054)
+
 
 DISCORD LINK
 https://linktr.ee/AlignedLayer
