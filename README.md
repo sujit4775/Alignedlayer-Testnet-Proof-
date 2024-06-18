@@ -1,7 +1,6 @@
 
 # ALIGNEDLAYER PUBLIC PROOF TASK
-
-
+![Uploading 340573200-4ab13f14-e030-46e4-84c2-ba4e9e6e73c3-2.png…]()
 
 ## Deployment
 
