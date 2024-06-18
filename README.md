@@ -27,6 +27,9 @@ curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batche
 source /root/.bashrc
 ```
 Download an example SP1 proof file with it's ELF file
+
+![WhatsApp Image 2024-06-18 at 10 58 25 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/d4431380-88ff-4d88-840e-bcaeb2751a59)
+
 ```bash
 
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/get_proof_test_files.sh | bash
