@@ -16,6 +16,7 @@ Install curl
 sudo apt-get install curl -y
 ```
 Download ALignedProof
+
 ![WhatsApp Image 2024-06-18 at 10 53 13 PM](https://github.com/sujit4775/Alignedlayer-Testnet-Proof-/assets/141178071/efffe5eb-7f5e-4009-b96f-86dda7f16904)
 
 ```bash
